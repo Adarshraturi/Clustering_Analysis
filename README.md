@@ -52,9 +52,9 @@ Both K-means and hierarchical clustering produced consistent results, confirming
 
 ##  Files
 
-* `code/` → R scripts
-* `report/` → Final coursework report
-* `images/` → Figures used in analysis
+* `Code/` → R scripts
+* `Report/` → Final coursework report
+* `Visualisation/` → Figures used in analysis
 
 ##  How to Run
 
